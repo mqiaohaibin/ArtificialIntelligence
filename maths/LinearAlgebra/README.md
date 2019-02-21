@@ -11,4 +11,4 @@
 ### 对称矩阵和二次型
 ### 向量空间的几何学
 
-[线性代数及其应用]:https://github.com/mqiaohaibin/ArtificialIntelligence/blob/maths/res/maths_linear_algebra.jpg?raw=true
+[线性代数及其应用]:https://github.com/mqiaohaibin/ArtificialIntelligence/blob/maths/res/learning_route.png?raw=true
